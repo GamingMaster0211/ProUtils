@@ -3,25 +3,20 @@
 Copyright (c) 2026 [GitHub-GamingMaster0211]
 
 Permission is hereby granted to any person obtaining a copy of this software 
-and associated documentation files (the "Software"), to view and read the 
-Software for informational purposes only.
+and associated documentation files (the "Software"), to use the Software for 
+their own projects and applications.
 
-NO RIGHTS ARE GRANTED to use, copy, modify, merge, publish, distribute, 
-sublicense, and/or sell copies of the Software, or to permit persons to whom 
-the Software is furnished to do so, EXCEPT as explicitly granted in writing 
-by the copyright holder.
+**No Modification Rights**: The Software may not be modified, merged, published, 
+distributed, sublicensed, or sold, or used to create derivative works.
 
-Modification Rights:
-Only the copyright holder and individuals who have received explicit written 
-permission from the copyright holder may modify the Software.
+**No Warranty**: The Software is provided "as is", without warranty of any kind, 
+express or implied, including but not limited to the warranties of 
+merchantability, fitness for a particular purpose and non-infringement.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
-SOFTWARE.
+**No Liability**: In no event shall the authors or copyright holders be liable 
+for any claim, damages or other liability, whether in an action of contract, 
+tort or otherwise, arising from, out of or in connection with the Software 
+or the use or other dealings in the Software.
 
 # Information About ProUtils
 
