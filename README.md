@@ -25,20 +25,20 @@ support for those languages. It is a software that helps developers make
 a utility file (albeit this is a useless software for the experienced) in
 multiple languages.
 
-EVERY SINGLE SOURCE AND LIBRARY USED IN PROUTILS IS MADE BY ME. NO ONE ELSE.
+***EVERY SINGLE SOURCE AND LIBRARY USED IN PROUTILS IS MADE BY ME. NO ONE ELSE.***
 
-ProUtils CURRENTLY has support for:
+ProUtils **CURRENTLY** has support for:
 
 - Python
 
-ProUtils WILL have support for:
+ProUtils **WILL** have support for:
 
 - Java
 - C++
 - C#
 - C
 
-More support will be added soon, as well as incoming support.
+*More support will be added soon, as well as incoming support.*
 
 # Requirements For Use Of ProUtils Python Edition
 
@@ -52,11 +52,11 @@ Requirements:
 
 Instructions:
 
-1. Launch main.py. Hopefully you do this from Visual Studio Code incase something messes up so you can fix it.
-2. In the first box, input the name of the utility file to create.
-3. In the second box, input the factor of the utility file to create. This is currently being worked on, so beware it has no use as of now.
-4. Execute On Run (EOR) when toggled on, it will add auto-generated code to the utility file to automatically run when a Python entry point file is run.
-5. Create Utility just creates the utility file. The file gets saved into the "uc" directory.
+1. Launch **main.py**. Hopefully you do this from **Visual Studio Code** incase something messes up so you can fix it.
+2. In the first box, input the **name** of the utility file to create.
+3. In the second box, input the **factor** of the utility file to create. This is currently being worked on, so beware it has no use as of now.
+4. **Execute On Run (EOR)** when toggled on, it will add *auto-generated code to the utility file to automatically run when a Python entry point file is run.*
+5. Create Utility just creates the utility file. **The file gets saved into the "uc" directory.**
 6. The help button just gives you these instructions but not in GitHub.
 
 # Final Words
