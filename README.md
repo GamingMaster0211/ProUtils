@@ -45,10 +45,26 @@ ProUtils WILL have support for:
 
 More support will be added soon, as well as incoming support.
 
+# Requirements For Use Of ProUtils Python Edition
+
+Requirements:
+
+- TKinter
+- PyMsgBox
+- Preferably LATEST Python version. I'm unsure with how this will respond to earlier versions of Python.
+
 # Instructions For Use Of ProUtils Python Edition
 
-####################
-#                  #
-#   Coming soon!   #
-#                  #
-####################
+Instructions:
+
+1. Launch main.py. Hopefully you do this from Visual Studio Code incase something messes up so you can fix it.
+2. In the first box, input the name of the utility file to create.
+3. In the second box, input the factor of the utility file to create. This is currently being worked on, so beware it has no use as of now.
+4. Execute On Run (EOR) when toggled on, it will add auto-generated code to the utility file to automatically run when a Python entry point file is run.
+5. Create Utility just creates the utility file. The file gets saved into the "uc" directory.
+6. The help button just gives you these instructions but not in GitHub.
+
+# Final Words
+
+I plan on (in the future) to add support for more languages. I've only had time to do Python these past couple of days.
+I hope you enjoy this useless software. Why is it useless? You can just create the file yourself. But other than that, thank you for downloading ProUtils Python Edition!
